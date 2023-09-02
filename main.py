@@ -48,7 +48,7 @@ def __main__:
                   print("please donate $5 to this paypal to access the follower gen")
               btc.ppl("https://paypal.me/InstaGenNtrx") # may not work from september to december 2022
        btc.checkForTransac("local --ip & paypal.com/me")
-            if transac == True:
+            if transac == false:
                   print('welcome to the gen')
                       &&code.acces('repl.fllwrs-code')
        else:
